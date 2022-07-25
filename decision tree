@@ -1,11 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T08:32:16.586Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="GpgLdKEfTYJMl9h9wWRx" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-25T08:42:36.148Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="cf-Lfp9q7Xtjm7djalH3" version="20.2.0" type="github">
   <diagram id="4PIC0YAcD96J9OYrzDe5" name="Page-1">
-    <mxGraphModel dx="920" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="521" dy="1391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="13VEjvecs286dau8U0C_-3" value="Are you a contractor or consultant of AA?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="70" width="120" height="60" as="geometry" />
+        <mxCell id="13VEjvecs286dau8U0C_-3" value="Is applicant a contractor or consultant of AA?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="70" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="13VEjvecs286dau8U0C_-4" value="" style="strokeWidth=0.8;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="305" y="110" width="40" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="13VEjvecs286dau8U0C_-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=30;notch=0;rotation=90;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="290" y="20" width="62.03" height="20.31" as="geometry" />
+        </mxCell>
+        <mxCell id="13VEjvecs286dau8U0C_-6" value="Emails from MSS/ESS flow in" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="235" y="-55" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
