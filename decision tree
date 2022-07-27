@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T09:13:12.667Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="yIfCLAuj79daroVXPWnY" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-27T08:56:07.842Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="euDsIKQWPZHIHqcOlK-u" version="20.2.0" type="github">
   <diagram id="4PIC0YAcD96J9OYrzDe5" name="Page-1">
-    <mxGraphModel dx="1262" dy="1329" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="364" dy="1303" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,20 +10,11 @@
         <mxCell id="13VEjvecs286dau8U0C_-4" value="" style="strokeWidth=0.8;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="305" y="110" width="40" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="13VEjvecs286dau8U0C_-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=30;notch=0;rotation=90;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="13VEjvecs286dau8U0C_-5" value="]" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=30;notch=0;rotation=90;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="290" y="20" width="62.03" height="20.31" as="geometry" />
         </mxCell>
         <mxCell id="13VEjvecs286dau8U0C_-6" value="Emails from dedicated mailbox" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="226.01" y="-40" width="190" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="13VEjvecs286dau8U0C_-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="13VEjvecs286dau8U0C_-8" target="13VEjvecs286dau8U0C_-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="13VEjvecs286dau8U0C_-8" value="Accept automatically and show on calendar" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.8;" vertex="1" parent="1">
-          <mxGeometry x="170" y="180" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="13VEjvecs286dau8U0C_-9" value="Send to&amp;nbsp;PM/Manager for reviewing, approved?" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0.8;" vertex="1" parent="1">
-          <mxGeometry x="352.03" y="180" width="147.97" height="60" as="geometry" />
         </mxCell>
         <mxCell id="13VEjvecs286dau8U0C_-10" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="210" y="145" width="40" height="30" as="geometry" />
@@ -31,8 +22,38 @@
         <mxCell id="13VEjvecs286dau8U0C_-11" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="390" y="145" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="13VEjvecs286dau8U0C_-12" value="Email manager about&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=0.8;" vertex="1" parent="1">
-          <mxGeometry x="-35" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="13VEjvecs286dau8U0C_-12" value="Contractors or consultant email PM/manager&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=0.8;" vertex="1" parent="1">
+          <mxGeometry x="150" y="180" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="13VEjvecs286dau8U0C_-16" value="" style="strokeWidth=0.8;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="400" y="210" width="40" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="13VEjvecs286dau8U0C_-17" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="305" y="245" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13VEjvecs286dau8U0C_-18" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="485" y="245" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="13VEjvecs286dau8U0C_-20" value="Permanent employs send to&amp;nbsp;PM/Manager for reviewing, approved?" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=0.8;" vertex="1" parent="1">
+          <mxGeometry x="345" y="180" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="13VEjvecs286dau8U0C_-21" value="PM/Manager forward to&amp;nbsp;dedicated email account&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="236.02" y="280" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="13VEjvecs286dau8U0C_-22" value="Accept automatically &lt;br&gt;and show on calendar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="236.01000000000002" y="400" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="13VEjvecs286dau8U0C_-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.861;exitY=0.996;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="13VEjvecs286dau8U0C_-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="370" as="sourcePoint" />
+            <mxPoint x="279" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13VEjvecs286dau8U0C_-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="13VEjvecs286dau8U0C_-21" target="13VEjvecs286dau8U0C_-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="380" as="sourcePoint" />
+            <mxPoint x="320.79" y="390.24" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
