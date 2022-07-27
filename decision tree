@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-27T09:08:06.596Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="mab-frUKqNcehphDNFey" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-27T09:23:36.027Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="8SVDCGi6Dddagw5GVQrs" version="20.2.0" type="github">
   <diagram id="4PIC0YAcD96J9OYrzDe5" name="Page-1">
-    <mxGraphModel dx="680" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="745" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +16,7 @@
         <mxCell id="13VEjvecs286dau8U0C_-11" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="390" y="145" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="13VEjvecs286dau8U0C_-12" value="Contractor or consultant&amp;nbsp;&lt;br&gt;&amp;nbsp;to PM/manager&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=0.8;" vertex="1" parent="1">
+        <mxCell id="13VEjvecs286dau8U0C_-12" value="Contractor or consultant&amp;nbsp;&lt;br&gt;&amp;nbsp;fill up leave excel and send to PM/Manager&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=0.8;" vertex="1" parent="1">
           <mxGeometry x="150" y="180" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="13VEjvecs286dau8U0C_-16" value="" style="strokeWidth=0.8;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
@@ -31,22 +31,27 @@
         <mxCell id="13VEjvecs286dau8U0C_-20" value="Permanent employ applys on&amp;nbsp;Eureka!" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=0.8;" vertex="1" parent="1">
           <mxGeometry x="345" y="180" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="13VEjvecs286dau8U0C_-21" value="PM/Manager forward to&amp;nbsp;dedicated email account&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210.01000000000002" y="380" width="170" height="70" as="geometry" />
+        <mxCell id="13VEjvecs286dau8U0C_-21" value="PM/Manager forward/send leeave excel to&amp;nbsp;dedicated email account&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190.01000000000002" y="520" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="13VEjvecs286dau8U0C_-22" value="Accept automatically &lt;br&gt;and show on calendar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210.00000000000003" y="500" width="170" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="13VEjvecs286dau8U0C_-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.861;exitY=0.996;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="13VEjvecs286dau8U0C_-12">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="370" as="sourcePoint" />
-            <mxPoint x="280" y="380" as="targetPoint" />
+        <mxCell id="13VEjvecs286dau8U0C_-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="13VEjvecs286dau8U0C_-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280.0000000000001" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="13VEjvecs286dau8U0C_-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="13VEjvecs286dau8U0C_-21" target="13VEjvecs286dau8U0C_-22">
+        <mxCell id="13VEjvecs286dau8U0C_-22" value="Systemt o generate excel of leave" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="380" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="13VEjvecs286dau8U0C_-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.596;exitY=1.012;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="13VEjvecs286dau8U0C_-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="293.99" y="480" as="sourcePoint" />
-            <mxPoint x="294.78000000000003" y="490.24" as="targetPoint" />
+            <mxPoint x="230" y="370" as="sourcePoint" />
+            <mxPoint x="239" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13VEjvecs286dau8U0C_-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="13VEjvecs286dau8U0C_-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="273.99" y="620" as="sourcePoint" />
+            <mxPoint x="274.9999999999999" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="13VEjvecs286dau8U0C_-27" value="Reject request" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -60,6 +65,9 @@
             <mxPoint x="410" y="240" as="sourcePoint" />
             <mxPoint x="413.99" y="280.24" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="13VEjvecs286dau8U0C_-30" value="Accept automatically read&lt;br&gt;file and show leave on calendar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190.00000000000003" y="640" width="170" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
