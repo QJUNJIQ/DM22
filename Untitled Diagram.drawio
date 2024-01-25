@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-25T09:41:06.734Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="KteM5TKTzN3Sbz7-1H6b" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-25T09:48:09.972Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="U2Mj0OrnXbjNnxjKUeY6" version="22.1.21" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="584" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="743" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,7 +43,7 @@
           <mxGeometry x="105" y="110" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mzh-qhOiG0cxyF0jxg3i-61" value="Case assigned to Email Agent CSO?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="mzh-qhOiG0cxyF0jxg3i-52" vertex="1">
-          <mxGeometry x="594" y="8" width="150" height="68.5" as="geometry" />
+          <mxGeometry x="595" y="9" width="150" height="68.5" as="geometry" />
         </mxCell>
         <mxCell id="mzh-qhOiG0cxyF0jxg3i-129" value="Alert Department User Group(s)" style="rounded=0;whiteSpace=wrap;html=1;glass=0;shadow=0;" parent="mzh-qhOiG0cxyF0jxg3i-52" vertex="1">
           <mxGeometry x="490" y="86" width="120" height="40" as="geometry" />
@@ -57,7 +57,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="04tRBFF7W2GKQMlli6Cc-475" value="Alert Department User Group(s)" style="rounded=0;whiteSpace=wrap;html=1;glass=0;shadow=0;" vertex="1" parent="mzh-qhOiG0cxyF0jxg3i-52">
-          <mxGeometry x="1920" y="97" width="120" height="40" as="geometry" />
+          <mxGeometry x="1929" y="97" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mzh-qhOiG0cxyF0jxg3i-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="mzh-qhOiG0cxyF0jxg3i-44" source="mzh-qhOiG0cxyF0jxg3i-63" target="mzh-qhOiG0cxyF0jxg3i-67" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -481,7 +481,7 @@
         <mxCell id="04tRBFF7W2GKQMlli6Cc-113" value="Alert CCD Case Admin" style="whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="04tRBFF7W2GKQMlli6Cc-9">
           <mxGeometry x="1610" y="126" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="04tRBFF7W2GKQMlli6Cc-178" value="Send alert to shared user groups and CCD Admin" style="whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="04tRBFF7W2GKQMlli6Cc-9">
+        <mxCell id="04tRBFF7W2GKQMlli6Cc-178" value="Alert the Shared User Groups and CCD Admin" style="whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="04tRBFF7W2GKQMlli6Cc-9">
           <mxGeometry x="1040" y="97" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="04tRBFF7W2GKQMlli6Cc-484" value="Alert CCD Case Admin" style="whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="04tRBFF7W2GKQMlli6Cc-9">
@@ -688,9 +688,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1200" y="990" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1130" y="1003" />
-              <mxPoint x="1200" y="1003" />
-              <mxPoint x="1200" y="1010" />
+              <mxPoint x="1130" y="1010" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -846,8 +844,8 @@
             <mxPoint x="1200" y="70" as="targetPoint" />
             <Array as="points">
               <mxPoint x="915" y="126" />
-              <mxPoint x="1180" y="126" />
-              <mxPoint x="1180" y="90" />
+              <mxPoint x="1110" y="126" />
+              <mxPoint x="1110" y="90" />
               <mxPoint x="1200" y="90" />
             </Array>
           </mxGeometry>
@@ -857,7 +855,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="04tRBFF7W2GKQMlli6Cc-96" value="Share Case" style="rhombus;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="04tRBFF7W2GKQMlli6Cc-33">
+        <mxCell id="04tRBFF7W2GKQMlli6Cc-96" value="Share Case?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="04tRBFF7W2GKQMlli6Cc-33">
           <mxGeometry x="860" y="56" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="04tRBFF7W2GKQMlli6Cc-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="04tRBFF7W2GKQMlli6Cc-33" source="04tRBFF7W2GKQMlli6Cc-98" target="04tRBFF7W2GKQMlli6Cc-84">
@@ -924,8 +922,8 @@
               <mxPoint x="301" y="273" />
               <mxPoint x="1001" y="273" />
               <mxPoint x="1001" y="183" />
-              <mxPoint x="1180" y="183" />
-              <mxPoint x="1180" y="90" />
+              <mxPoint x="1110" y="183" />
+              <mxPoint x="1110" y="90" />
               <mxPoint x="1220" y="90" />
             </Array>
           </mxGeometry>
@@ -955,7 +953,7 @@
             <mxPoint x="2394" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="04tRBFF7W2GKQMlli6Cc-504" value="1.Do we need to include the Reopen process?&lt;br&gt;&lt;br&gt;SF - Department: Complete/Share/Redirect/Reject&lt;br&gt;&lt;br&gt;NSF- CCD Admin&lt;br&gt;2. How to describe the&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="04tRBFF7W2GKQMlli6Cc-504" value="1.Do we need to include the Reopen process?&lt;br&gt;SF - Department: Complete/Share/Redirect/Reject&lt;br&gt;NSF- alert CCD Admin&lt;br&gt;&lt;br&gt;2. How to describe the incoming emails?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1550" y="1700" width="270" height="140" as="geometry" />
         </mxCell>
       </root>
