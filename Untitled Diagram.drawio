@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T16:09:43.222Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="3aeEXxG7baR-2a_pig9T" version="23.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-30T16:19:38.562Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="rvbHnm8oXHk8nd6zU9IA" version="23.0.2" type="github" pages="2">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Straightforward Case">
-    <mxGraphModel dx="1250" dy="1274" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="765" dy="980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -344,16 +344,10 @@
         <mxCell id="mzh-qhOiG0cxyF0jxg3i-99" value="Accept Case?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="mzh-qhOiG0cxyF0jxg3i-104" vertex="1">
           <mxGeometry x="911" y="-219" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="mzh-qhOiG0cxyF0jxg3i-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#030202;fontColor=#030202;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="mzh-qhOiG0cxyF0jxg3i-104" source="mzh-qhOiG0cxyF0jxg3i-106" target="mzh-qhOiG0cxyF0jxg3i-108" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1140" y="161" />
-              <mxPoint x="1080" y="161" />
-              <mxPoint x="1080" y="154" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="SGq8Umc2aROgRbmNm84r-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="mzh-qhOiG0cxyF0jxg3i-104" source="mzh-qhOiG0cxyF0jxg3i-106" target="SGq8Umc2aROgRbmNm84r-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gBfLLdMYK_lTZkEm4747-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="mzh-qhOiG0cxyF0jxg3i-104" source="mzh-qhOiG0cxyF0jxg3i-106" target="mzh-qhOiG0cxyF0jxg3i-108">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mzh-qhOiG0cxyF0jxg3i-106" value="Process Case" style="whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="mzh-qhOiG0cxyF0jxg3i-104" vertex="1">
@@ -542,7 +536,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gd7lZOU4M0GX4RzleEj-" name="Non-Straightforward Case and Complaint Against MAS Staff">
-    <mxGraphModel dx="-2850" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-2937" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
