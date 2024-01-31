@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-31T06:00:32.513Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="LV64s0UAF5do83GL7x6e" version="23.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-31T06:31:26.906Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="TD1j_ZIe6MMo3hg3C5wC" version="23.0.2" type="github" pages="2">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Straightforward Case">
     <mxGraphModel dx="2017" dy="1416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -600,7 +600,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gd7lZOU4M0GX4RzleEj-" name="Non-Straightforward Case and Complaint Against MAS Staff">
-    <mxGraphModel dx="-1025" dy="1593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-2530" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -747,9 +747,6 @@
         </mxCell>
         <mxCell id="2eOJWMW3YChaIXYDx8gI-29" value="Convert from &lt;br&gt;Other Case Type" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="2eOJWMW3YChaIXYDx8gI-16" vertex="1">
           <mxGeometry x="25" y="260" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2eOJWMW3YChaIXYDx8gI-31" value="System Create &lt;br&gt;Collab Docs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#7EA6E0;" parent="2eOJWMW3YChaIXYDx8gI-16" vertex="1">
-          <mxGeometry x="145" y="176" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2eOJWMW3YChaIXYDx8gI-32" value="Alert CCD Case Admin" style="whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="2eOJWMW3YChaIXYDx8gI-16" vertex="1">
           <mxGeometry x="1818" y="126" width="120" height="35" as="geometry" />
