@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-31T08:41:23.164Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="nVINzAByJIGfIMNUgmoe" version="23.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-31T08:42:59.762Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="6G1PG6BFmof68btA5gtc" version="23.0.2" type="github" pages="2">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Straightforward Case">
-    <mxGraphModel dx="105" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="900" dy="1062" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -209,15 +209,6 @@
         </mxCell>
         <mxCell id="bin9GKD1Cm-y-K1DroO_-5" value="Manually Creates &lt;br&gt;a Case (Snail Nail)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="mzh-qhOiG0cxyF0jxg3i-65" vertex="1">
           <mxGeometry x="20" y="226" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="z1x1k15FEQPhoCJQvHdt-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="mzh-qhOiG0cxyF0jxg3i-65" source="jtOGK0E_JjtqUtk7tNXq-4" target="jtOGK0E_JjtqUtk7tNXq-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jtOGK0E_JjtqUtk7tNXq-4" value="Close Case" style="whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="mzh-qhOiG0cxyF0jxg3i-65" vertex="1">
-          <mxGeometry x="2479" y="99.99999999999989" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="jtOGK0E_JjtqUtk7tNXq-5" value="" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start;" parent="mzh-qhOiG0cxyF0jxg3i-65" vertex="1">
-          <mxGeometry x="2675" y="103.99999999999989" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jqQjSjmS53fEopU52SXQ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="mzh-qhOiG0cxyF0jxg3i-65" source="jqQjSjmS53fEopU52SXQ-1" target="jqQjSjmS53fEopU52SXQ-9">
           <mxGeometry relative="1" as="geometry" />
